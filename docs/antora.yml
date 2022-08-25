@@ -1,4 +1,4 @@
-name: bar
+name: package-bar
 title: bar
 version: master
 start_page: ROOT:index.adoc
